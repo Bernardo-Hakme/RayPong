@@ -13,6 +13,9 @@ int main()
 
 	while(!WindowShouldClose())
 	{
+		// Event Handling
+		
+		// Draw to screen
 		BeginDrawing();
 		ClearBackground(BLACK);
 	
